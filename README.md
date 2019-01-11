@@ -8,7 +8,9 @@ This program was written in Python 3.5.
 
 First to isntall dependencies cd to the directory and 
 >pip install -r requirements.txt
+
 then to run the application simply run
+
 >python gui.py
 
 ##Using:
